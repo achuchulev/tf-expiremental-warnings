@@ -1,31 +1,31 @@
-module "1" {
+module "foo-1" {
     source = "./modules/null"
 }
 
-module "2" {
+module "foo-2" {
     source = "./modules/null"
 }
 
-module "3" {
+module "foo-3" {
     source = "./modules/null"
 }
 
-module "4" {
+module "foo-4" {
     source = "./modules/null"
 }
 
-module "5" {
+module "bar-5" {
     source = "./modules/null"
 }
 
-module "6" {
+module "bar-6" {
     source = "./modules/null"
 }
 
-module "7" {
+module "bar-7" {
     source = "./modules/null"
 }
 
-module "8" {
+module "bar-8" {
     source = "./modules/null"
 }
